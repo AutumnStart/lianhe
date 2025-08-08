@@ -1,32 +1,6 @@
-[![index]( https://s1.ax1x.com/2020/07/03/NOSA5q.jpg )]( https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console )
-
-# 小说精品屋-plus
-
-[![Github stars](https://img.shields.io/github/stars/201206030/novel-plus?logo=github)](https://github.com/201206030/novel-plus)
-[![Github forks](https://img.shields.io/github/forks/201206030/novel-plus?logo=github)](https://github.com/201206030/novel-plus)
-[![Gitee star](https://gitee.com/novel_dev_team/novel-plus/badge/star.svg?theme=gitee)](https://gitee.com/novel_dev_team/novel-plus)
-[![Gitee fork](https://gitee.com/novel_dev_team/novel-plus/badge/fork.svg?theme=gitee)](https://gitee.com/novel_dev_team/novel-plus)
-
-#### 官网
-
-https://xiongxyang.gitee.io
-
-#### 新项目：小说精品屋-微服务版
-
-基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台。
-
-GitHub仓库地址： https://github.com/201206030/novel-cloud
-
-Gitee仓库地址： https://gitee.com/novel_dev_team/novel-cloud
-
-#### 演示地址
-
-[点击前往](http://47.106.243.172:8888/)
-
-
 #### 项目介绍
 
-小说精品屋-plus是在[小说精品屋](https://github.com/201206030/fiction_house)的基础上，去除了漫画和弹幕模块，专注于小说，是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统，由前台门户系统、作家后台管理系统、平台后台管理系统、爬虫管理系统等多个子系统构成，支持会员充值、订阅模式、新闻发布和实时统计报表等功能。
+小说精品屋-plus专注于小说，是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统，由前台门户系统、作家后台管理系统、平台后台管理系统、爬虫管理系统等多个子系统构成，支持会员充值、订阅模式、新闻发布和实时统计报表等功能。
 
 小说精品屋-plus重新进行了数据库设计、代码重构和功能增强，提升了程序整体的可读性和性能，增加了很多商用特性。主要升级如下：
 
@@ -83,18 +57,7 @@ novel-plus -- 父工程
 | Layui                | 前端UI                    
                  
 
-#### 开发工具
-感谢Jetbrains公司提供的免费License。
-
-[![index]( https://s3.ax1x.com/2021/01/14/sdHsJg.png )]( https://www.jetbrains.com/?from=小说精品屋)
-
-
-#### 接口文档
-
-[点击查看接口文档示例](doc/api/api.md)
-
-#### 橙色主题模版截图
-##### PC站截图
+##### 演示截图
 
 1. 首页
 
@@ -148,30 +111,6 @@ novel-plus -- 父工程
 
 ![img](https://oscimg.oschina.net/oscnet/up-f849960f4c1303fea77d26e64fc505a7180.png)
 
-##### 手机站截图
-
-1. 首页
-
-   <img src="https://s3.ax1x.com/2020/12/27/r5447n.jpg" alt="index" width="300" />
-
-2. 小说列表页
-
-   <img src="https://s3.ax1x.com/2020/12/27/r55xKg.jpg" alt="微信图片_20190904181558" width="300" />
-
-3. 小说详情页
-
-   <img src="https://s3.ax1x.com/2020/12/28/roZWOf.jpg" alt="QQ图片20191018161901" width="300" />
-
-4. 小说阅读页
-
-   <img src="https://s3.ax1x.com/2020/12/27/r55Stx.jpg" alt="QQ图片20191018161901" width="300" />
-
-##### 爬虫管理系统截图
-
-![img](https://s1.ax1x.com/2020/11/03/BsOgbD.png)
-
-![img](https://s1.ax1x.com/2020/11/03/BsOHr8.png)
-
 ##### 后台管理系统截图
 
 ![img](https://oscimg.oschina.net/oscnet/up-0552343538674a22a64819834100558f39b.png)
@@ -181,36 +120,6 @@ novel-plus -- 父工程
 ![img](https://s3.ax1x.com/2020/12/01/DfmRCd.png)
 
 ![img](https://oscimg.oschina.net/oscnet/up-faf5dda7320674c29a1772bc0c81d74762e.png)
-
-#### 深色主题模版截图
-##### PC站截图
-
-1. 首页
-
-   ![index](https://static.oschina.net/uploads/img/202006/24151811_wIus.png)
-
-##### 手机站截图
-1. 首页
-
-   ![index](https://static.oschina.net/uploads/img/202006/24151812_OOob.jpg)
-
-4. 小说详情页
-
-   ![微信图片_20190904181558](https://static.oschina.net/uploads/img/202006/24151812_ZosF.png)
-
-5. 目录页
-
-   ![QQ图片20191018161901](https://static.oschina.net/uploads/img/202006/24151812_Krva.png)
-
-5. 小说阅读页
-
-   ![QQ图片20191018161901](https://static.oschina.net/uploads/img/202006/24151813_fDgT.png)
-
-#### 蓝色主题模版截图（更新中）
-
-   ![QQ图片20191018161901](https://s3.ax1x.com/2020/12/27/r5Fe0A.png)
-
-#### 安装步骤（源码，小白请看其他安装教程）
 
 ##### 数据库安装：
 
@@ -260,65 +169,9 @@ novel-plus -- 父工程
 
 5. 启动程序，打开浏览器，默认8080端口访问。
 
-**喜欢此项目的可以给我的GitHub和Gitee加个Star支持一下 。**
-
-#### 其他安装教程
-
-##### version>=3.5.0版本
-
-包安装及低版本升级教程：[点击前往](https://my.oschina.net/java2nb/blog/4914688)
-
-##### 3.3.0<=version<3.5.0版本
-
-包安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4842472) 
-
-##### version<3.3.0版本
-
-包安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4272630) 
-
-宝塔安装教程（非官方）：[点击前往](https://www.daniao.org/9166.html) 
-
-docker安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4271989)
-
-#### 代码仓库
-
- GitHub仓库地址： https://github.com/201206030/novel-plus 
-
- Gitee仓库地址： https://gitee.com/novel_dev_team/novel-plus
-
-#### QQ交流群
-
-[点击前往官网查看](https://xiongxyang.gitee.io/service.htm)
-
-问问题的三要素
-
-1. 说明背景，使用了哪个模块，要做什么？
-
-2. 怎么输入或操作的得到了什么结果？ 截图，日志
-
-3. 哪里不明白或有什么疑问 ？
-
-#### 微信公众号（发布最新更新资讯、最新前端模版、最新爬虫规则、技术文档等）
-
-![mini-code](https://s3.ax1x.com/2020/12/03/DoImOx.png)
-
-#### 赞赏支持
-
-开源项目不易，若此项目能得到你的青睐，那么你可以赞赏支持作者持续开发与维护。
-
-- 服务器的费用也是一笔开销
-- 为用户提供更好的开发环境
-- 一杯咖啡 
-
-![mini-code](https://s1.ax1x.com/2020/10/31/BUQJwq.png)
 
 #### 免责声明
 
 本项目提供的爬虫工具仅用于采集项目初期的测试数据，请勿用于商业盈利。
 用户使用本系统从事任何违法违规的事情，一切后果由用户自行承担，作者不承担任何责任。
 
-#### 备注
-
-精品小说屋所有相关项目均已在开源中国公开，感兴趣的可进入[开源中国](https://www.oschina.net/p/fiction_house)按关键字`精品小说屋`搜索。
-
-[![index](https://s1.ax1x.com/2020/07/03/NOSuMF.jpg)](https://www.aliyun.com/minisite/goods?userCode=uf4nasee )
